@@ -37,7 +37,8 @@
 }
 .main_nav {
   display: flex;
-  width: 50%;
+  /* width: 50%; */
+  min-width: 30%;
   float: right;
   margin-right: 2%;
   justify-content: space-between;
