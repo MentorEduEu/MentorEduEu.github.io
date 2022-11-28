@@ -140,4 +140,7 @@ footer {
     padding-top: 20px;
     padding-bottom: 20px;
   }
+  .logo_header {
+    margin-left: 0%;
+  }
 }
